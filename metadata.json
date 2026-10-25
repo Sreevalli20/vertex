@@ -1,0 +1,6 @@
+{
+  "name": "VERITYX AI — Brand Integrity & Content Governance Platform",
+  "description": "Enterprise-grade brand integrity and content governance platform featuring deterministic verification, knowledge-grounded evidence matching, rule governance, human review workflows, and immutable audit logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
